@@ -1,0 +1,16 @@
+# ninja log v5
+1	13283	1652978484818766890	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/pointnet2_api.o	5b7b635fc8b23887
+1	17607	1652978489206893805	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/interpolate_gpu.o	f22aad43f813536d
+0	17791	1652978489394899208	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/ball_query_gpu.o	b54363b54e4a2f2b
+0	17900	1652978489502902311	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/group_points_gpu.o	794a5a90f783990e
+2	18100	1652978489702908056	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/sampling_gpu.o	c796558c1f053adb
+14	5349	1652979220538316251	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/sampling.o	4aa70c49acd92672
+15	5331	1652979702687984617	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/interpolate.o	745545d4100a27b8
+14	5374	1652979702691984586	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/group_points.o	f50ed2c71211d4b9
+14	5475	1652979702835983538	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/ball_query.o	d665cf6bcb9c6830
+16	9301	1652981150533492011	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/group_points.o	f50ed2c71211d4b9
+18	5692	1652981323723351011	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/interpolate.o	b601b0b6ee50cb82
+18	5783	1652981323815351876	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/sampling.o	c8f8c8ed7d25ba57
+18	5824	1652981323815351876	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/ball_query.o	1dc612de80c3b686
+18	10326	1652981328351394266	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/group_points.o	881a5060ab4d0d36
+18	12484	1652981330511414352	/home/ran/PycharmProjects/riconv2/models/pointnet2/build/temp.linux-x86_64-3.8/src/pointnet2_api.o	f1234877e3c116b
